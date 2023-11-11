@@ -1,3 +1,3 @@
-Youtube Link for Sentence Embedding: https://www.youtube.com/watch?v=OlhNZg4gOvA
-Huggingface Link for Tokenization: https://huggingface.co/docs/transformers/main_classes/tokenizer
-Huggingface Link for Tokenization Summary: https://huggingface.co/docs/transformers/tokenizer_summary
+Youtube Link for Sentence Embedding: "https://www.youtube.com/watch?v=OlhNZg4gOvA"
+Huggingface Link for Tokenization: "https://huggingface.co/docs/transformers/main_classes/tokenizer"
+Huggingface Link for Tokenization Summary: "https://huggingface.co/docs/transformers/tokenizer_summary"
